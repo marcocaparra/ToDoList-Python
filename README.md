@@ -1,6 +1,6 @@
 # 🧠 Meu Primeiro Projeto com Django
 
-![Tela do projeto](Tela Inicial - ToDoList.png)
+![Tela do projeto](tela-inicial-todolist.png)
 
 Este projeto foi desenvolvido durante o curso de férias do ENIAC, na aula de **"Montando meu primeiro site com Python"**, utilizando o framework **Django**.
 
